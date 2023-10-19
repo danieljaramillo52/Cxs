@@ -1,0 +1,16 @@
+table {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+    border-collapse: collapse;
+  }
+
+th {
+    border-bottom: 1px solid blue;
+  }
+  
+td:nth-child(1) {
+    border-right: 1px solid white;
+  }
+
